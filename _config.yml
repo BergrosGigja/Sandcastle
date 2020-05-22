@@ -1,0 +1,57 @@
+# Site name
+name:               "Sandcastle"
+
+# Colors:
+accentcolor:        "#2EC4B6"      # Tiffany Blue
+backdropcolor:      "#F1E8B8"      # Blond
+
+# Analytics
+#google_analytics:   UA-xxxxxxxxx-x
+
+# URL
+baseurl:            ""
+permalink:          /:year/:month/:day/:title/
+
+# Markdown
+markdown:           kramdown
+
+# Navbar
+nav:
+  - name:           "About"
+    link:           "about"
+    download:       false
+  - name:           "CV"
+    link:           "resume.pdf"
+    download:       true
+
+# Social links footer
+social:
+  github:         "bergrosgigja"
+  linkedin:       "bergrosgigja"
+  instagram:      ""
+  facebook:       ""
+  twitter:        ""
+  youtube:        ""
+
+# Style setup
+sass:
+  style:            :compressed
+  sass_dir:         _sass
+
+# Plugins
+plugins:
+  - jemoji
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
