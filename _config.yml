@@ -9,7 +9,7 @@ backdropcolor:      "#F1E8B8"      # Blond
 #google_analytics:   UA-xxxxxxxxx-x
 
 # URL
-baseurl:            ""
+baseurl:            "Sandcastle"
 permalink:          /:year/:month/:day/:title/
 
 # Markdown
