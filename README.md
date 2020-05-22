@@ -3,6 +3,8 @@
 Sandcastle is a theme for Jekyll.
 Designed and developed by [Bergrós](https://github.com/bergrosgigja). Based on the [Kiko theme](https://github.com/gfjaru/Kiko) by [gfjaru](https://github.com/gfjaru).
 
+**[Click for live demo](https://bergrosgigja.github.io/Sandcastle/)**
+
 ## Get Started
 
 1. Fork this repository
