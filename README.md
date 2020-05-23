@@ -1,4 +1,4 @@
-# Sandcastle
+# Sandcastle 🏖️
 
 Sandcastle is a theme for Jekyll.
 Designed and developed by [Bergrós](https://github.com/bergrosgigja). Based on the [Kiko theme](https://github.com/gfjaru/Kiko) by [gfjaru](https://github.com/gfjaru).
